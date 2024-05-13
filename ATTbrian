@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+    
+<body>
+   <h1>
+    <strong>FONTE:</strong>
+   </h1> 
+   
+    <p> <span style="color: green;">   <font size="3">  "No mundo dos negocios todos são pagos com duas moedas:Dinheiros e experiencia 
+        primeiro,o dinheiro vira depois" --Harold Gennen</font> <br />  
+       </p>
+
+       <p> <span style="color: rgb(239, 36, 5);"><font size="5"> "Ha homens que lutam um dia e sao bons,
+        Ha outros que lutam muitos dias e sao melhores."</font> <br /></span> </p>
+
+       <p>  <span style="color: rgb(5, 17, 239);"> <font size="5">Mas ha os que lutam toda a vida, e estes sao imprescindiveis."
+        ---Bertold Brecht</span> </p> </font> <br/>
+        
+        
+        
+
+</body>
+
+</html>
